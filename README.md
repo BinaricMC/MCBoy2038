@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm MinecraftBoy2038 or MCBoy2038 for short. 
-You can learn about me by [vising my carrd website!](https://minecraftboy2038.carrd.co))
+You can learn about me by [vising my carrd website!](https://minecraftboy2038.carrd.co)
 
 
 
