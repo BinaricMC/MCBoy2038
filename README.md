@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm BinaricMC.
-You can learn about me by [vising my carrd website!](https://mcboy2038.carrd.co)
 
 
 
