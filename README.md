@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm MCBoy2038.
+I'm BinaricMC.
 You can learn about me by [vising my carrd website!](https://mcboy2038.carrd.co)
 
 
 
 <!--
-**MinecraftBoy2038/MinecraftBoy2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BinaricMC/BinaricMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
